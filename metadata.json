@@ -1,0 +1,8 @@
+{
+  "name": "Remix RecruitCraft - AI Recruitment Sandbox \u0026 Interview Lab",
+  "description": "Transform raw role notes into tailored LinkedIn Job Descriptions and 10-question behavioral interview guides with deep STAR rubrics and multi-turn recruiting copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
